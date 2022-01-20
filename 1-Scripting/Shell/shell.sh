@@ -2,7 +2,7 @@ echo "Welcome to my restaurant, our speciality is Jamaican food"
 
 echo "Here is our menu, make your choices:"
 echo "Enter 1 for Jerk chicken/fish"
-echo "Enter 2 for Oxtail & rice"
+echo "Enter 2 for Oxtail & rice with plantains"
 echo "Enter 3 for Fish Escovitch"
 read resp
 
@@ -36,14 +36,14 @@ fi
 
 if [ "$resp2" == "1" ]
 then 
-echo "Like me. I love sweet banana." 
-echo "Ok, You want oxtail & rice with sweet banana"
+echo "Like me. I love sweet plantains." 
+echo "Ok, You want oxtail & rice with sweet plantains"
 echo "Someone is taking care of your order!"
 fi
 
 if [ "$resp2" == "2" ]
 then 
-echo "ok, you prefer salty"
+echo "ok, you prefer salty plantains"
 echo "Someone is taking care of your order!"
 fi
 
