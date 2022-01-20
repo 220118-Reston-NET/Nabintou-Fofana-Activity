@@ -2,6 +2,8 @@
 //Console.WriteLine("Hello, World!");
 
 using JamaicanFood;
+using CollectionFood;
+
 
 bool repeat = true;
 
@@ -14,6 +16,27 @@ while (repeat)
     Console.WriteLine(" Enter 3 for Oxtail & rice with sweety plantains ");
     Console.WriteLine(" Enter 4 for Oxtail & rice with salty plantains ");
     Console.WriteLine(" Enter 5 for Fish Escovitch ");
+
+    Console.WriteLine(" ");
+ Console.WriteLine("*************************************************************************");
+ Console.WriteLine("*************************************************************************");
+ Console.WriteLine("*** Hello, Welcome to my restaurant, our speciality is Jamaican food! ***");
+ Console.WriteLine("*************************************************************************");
+ Console.WriteLine("*************************************************************************");
+ 
+ Console.WriteLine("                   Here is our menu, make your choices:");
+ 
+ Data data = new Data();
+ 
+ 
+     
+
+ data.Meals();
+ 
+ data.order1();
+ 
+ data.paid();
+
 
     string userInput = Console.ReadLine();
 
