@@ -27,13 +27,16 @@ namespace CollectionFood
     Console.WriteLine(" Enter 5 for Fish Escovitch ");
     Console.WriteLine(" ");
 
+
+    
+
     
 
         }
 
-        public void paid()
+        public void paid1()
         {
-
+            Console.WriteLine($"Here is your {_strings[0]}, you paid");
         }
              
         public void order1()
