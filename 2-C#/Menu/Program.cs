@@ -5,7 +5,8 @@ using JamaicanFood;
 using CollectionFood;
 
     Data data = new Data();
-
+    Meal meal = new Meal();
+    
     Console.WriteLine(" ");
     Console.WriteLine("*************************************************************************");
     Console.WriteLine("*************************************************************************");
@@ -26,16 +27,19 @@ using CollectionFood;
             Console.WriteLine(" Enter 5 for Fish Escovitch ");
     
 
+    meal.OrderM();
     string userInput = Console.ReadLine();
     
     if (userInput == "1")
     {
     data._orderMeal1();
+    
     string userInput2 = Console.ReadLine();
     
     if (userInput2 == "1")
     {
         data._orderDrink();
+        meal.OrderM();
         data._checkout();
     }
     else
@@ -55,6 +59,7 @@ using CollectionFood;
     if (userInput2 == "1")
     {
         data._orderDrink();
+        //meal.Order();
         data._checkout();
     }
     else
