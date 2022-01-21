@@ -2,9 +2,11 @@ namespace JamaicanFood
 {
     public class Meal
     {
-        private string _meal1 = "Jerk chicken/fish";
-        private string _meal2 = "Oxtail & rice";
-        private string _meal3 = "Fish Escovitch";
+        private string _meal1 = "Jerk chicken";
+        private string _meal2 = "Jerk fish";
+        private string _meal3 = "Oxtail & rice with sweet plantains";
+        private string _meal4 = "Oxtail & rice with salty plantains";
+        private string _meal5 = "Fish Escovitch";
 
         public string Meal1
         {
@@ -24,9 +26,21 @@ namespace JamaicanFood
             set {_meal3 = value;}
         }
 
-        public void Order()
+        public string Meal4 
         {
-            Console.WriteLine("Someone is taking care of your order!");
+            get {return "Ok! You ordered " + _meal4;}
+            set {_meal4 = value;}
+        }
+
+        public string Meal5 
+        {
+            get {return "Ok! You ordered " + _meal5;}
+            set {_meal5 = value;}
+        }
+
+        public void OrderM()
+        {
+            Console.WriteLine("Hello, How may I help you today?");
         }
     }
 }
