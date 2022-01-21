@@ -4,12 +4,8 @@
 using JamaicanFood;
 using CollectionFood;
 
-bool repeat = true;
+    Data data = new Data();
 
-
-
-while (repeat)
-{
     Console.WriteLine(" ");
     Console.WriteLine("*************************************************************************");
     Console.WriteLine("*************************************************************************");
@@ -22,22 +18,36 @@ while (repeat)
 
     //Console.WriteLine("Welcome to my restaurant, our speciality is Jamaican food");
     //Console.WriteLine("Here is our menu, make your choices:");
+
+    Console.WriteLine(" ");
+    Console.WriteLine("==================================FOODS==================================");
+    
     Console.WriteLine(" Enter 1 for Jerk chicken ");
     Console.WriteLine(" Enter 2 for Jerk chicken ");
     Console.WriteLine(" Enter 3 for Oxtail & rice with sweety plantains ");
     Console.WriteLine(" Enter 4 for Oxtail & rice with salty plantains ");
     Console.WriteLine(" Enter 5 for Fish Escovitch ");
-    Data data = new Data();
-    
+
     //data.Meals();
- 
-    //data.paid();
 
     string userInput = Console.ReadLine();
-
+    
     if (userInput == "1")
     {
-    Console.WriteLine("Ok, You will love it! Someone is taking care of your order!");
+    data._order1();
+    string userInput2 = Console.ReadLine();
+    
+    if (userInput2 == "1")
+    {
+        data._addDrink();
+        data._checkout();
+    }
+    else
+    {
+        data._checkout();
+    }
+
+
     }
     else if (userInput == "2")
     {
@@ -63,12 +73,12 @@ while (repeat)
     {
     Console.WriteLine("Sorry");
     }
-    Console.WriteLine("Press enter to continue");
+    
     Console.ReadLine();
 
 
 
-}
+//}
 
 
 
