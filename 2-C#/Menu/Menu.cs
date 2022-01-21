@@ -25,7 +25,6 @@ namespace JamaicanFood
             get {return "Ok! You ordered " + _meal3;}
             set {_meal3 = value;}
         }
-
         public string Meal4 
         {
             get {return "Ok! You ordered " + _meal4;}
