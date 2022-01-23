@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
-using JamaicanFood;
-using CollectionFood;
+using FoodFunction;
+using DataFunction;
+using SerializeFunction;
 
     Data data = new Data();
     Meal meal = new Meal();
@@ -38,15 +39,13 @@ using CollectionFood;
     if (userInput2 == "1")
     {
         data._orderDrink();
-        meal.OrderM();
+        //meal.OrderM();
         data._checkout();
     }
     else
     {
         data._checkout();
     }
-
-
     }
 
 
@@ -193,10 +192,6 @@ using CollectionFood;
     }
     }
 
-
-    
-
-
     //Console.WriteLine("Someone is taking care of your order!");
     }
     else
@@ -205,6 +200,9 @@ using CollectionFood;
     }
    
     }
+
+
+
     else
     {
     Console.WriteLine("Sorry");
@@ -213,6 +211,7 @@ using CollectionFood;
     Console.ReadLine();
     
 
+    Serialize.SerialMain();
 
 //}
 

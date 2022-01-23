@@ -1,12 +1,21 @@
-namespace JamaicanFood
+namespace FoodFunction
 {
     public class Meal
     {
-        private string _meal1 = "Jerk chicken";
-        private string _meal2 = "Jerk fish";
-        private string _meal3 = "Oxtail & rice with sweet plantains";
-        private string _meal4 = "Oxtail & rice with salty plantains";
-        private string _meal5 = "Fish Escovitch";
+        private string _meal1;
+        private string _meal2;
+        private string _meal3;
+        private string _meal4;
+        private string _meal5;
+
+         public Meal()
+        {
+            _meal1 = "Jerk chicken";
+            _meal2 = "Jerk Fish";
+            _meal3 = "Oxtail, rice with sweet plantains";
+            _meal4 = "Oxtail, rice with salty plantains";
+            _meal5 = "Fish Escovitch";
+        }
 
         public string Meal1
         {
@@ -40,6 +49,7 @@ namespace JamaicanFood
         public void OrderM()
         {
             Console.WriteLine("Hello, How may I help you today?");
+    
         }
     }
 }
