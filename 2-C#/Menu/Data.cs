@@ -20,57 +20,57 @@ namespace DataFunction
 
         public string meal1
         {
-            get { return " The meal1 is " + _meal1;}
+            get { return " The meal 1 is " + _meal1;}
             set { _meal1 = value;}
         }
 
         public string meal2
         {
-            get { return " The meal2 is " + _meal2;}
+            get { return " The meal 2 is " + _meal2;}
             set { _meal2 = value;}
         }
 
         public string meal3
         {
-            get { return " The meal2 is " + _meal3;}
+            get { return " The meal 3 is " + _meal3;}
             set { _meal3 = value;}
         }
 
         public string meal4
         {
-            get { return " The meal3 is " + _meal4;}
+            get { return " The meal 4 is " + _meal4;}
             set { _meal4 = value;}
         }
 
         public string meal5
         {
-            get { return " The meal4 is " + _meal5;}
+            get { return " The meal 5 is " + _meal5;}
             set { _meal5 = value;}
         }
 
         public string meal6
         {
-            get { return " The meal5 is " + _meal6;}
+            get { return " The meal 6 is " + _meal6;}
             set { _meal6 = value;}
         }
         public string meal7
         {
-            get { return " The meal6 is " + _meal7;}
+            get { return " The meal 7 is " + _meal7;}
             set { _meal7 = value;}
         }
         public string meal8
         {
-            get { return " The meal7 is " + _meal8;}
+            get { return " The meal 8 is " + _meal8;}
             set { _meal8 = value;}
         }
         public string meal9
         {
-            get { return " The meal8 is " + _meal9;}
+            get { return " The meal 9 is " + _meal9;}
             set { _meal9 = value;}
         }
         public string meal10
         {
-            get { return " The meal1 is " + _meal10;}
+            get { return " The meal 10 is " + _meal10;}
             set { _meal10 = value;}
         }
 
@@ -126,20 +126,20 @@ namespace DataFunction
         {
             Console.WriteLine("==================================FOODS==================================");
     
-            Console.WriteLine(" Enter 1 for" +  _meal1);
-            Console.WriteLine(" Enter 2 for" + _meal2);
-            Console.WriteLine(" Enter 3 for" + _meal3);
-            Console.WriteLine(" Enter 4 for Oxtail & rice with salty plantains ");
-            Console.WriteLine(" Enter 5 for Fish Escovitch ");
+            Console.WriteLine(" 1 ===> " + _meal1);
+            Console.WriteLine(" 2 ===> " + _meal2);
+            Console.WriteLine(" 3 ===> " + _meal3);
+            Console.WriteLine(" 4 ===> " + _meal4);
+            Console.WriteLine(" 5 ===> " + _meal5 );
         }
         public void _removeFoods()
         {
-            _foods.Remove("Fish Escovitch");
+            _foods.Remove(_meal5);
         }
          
         public void _removeDrinks()
         {
-            _drinks.Remove("Mango juice");
+            _drinks.Remove(_meal10);
         }
          
         public void _orderMeal1()
@@ -188,17 +188,17 @@ namespace DataFunction
         {
             Console.WriteLine("==================================DRINKS==================================");
         
-            Console.WriteLine(" 1 ===> Pineapple juice ");
-            Console.WriteLine(" 2 ===> Ginger juice ");
-            Console.WriteLine(" 3 ===> Lemon juice ");
-            Console.WriteLine(" 4 ===> passion fruit juice ");
-            Console.WriteLine(" 5 ===> Mango juice ");
+            Console.WriteLine(" 1 ===> " + _meal6);
+            Console.WriteLine(" 2 ===> " + _meal7);
+            Console.WriteLine(" 3 ===> " + _meal8);
+            Console.WriteLine(" 4 ===> " + _meal9);
+            Console.WriteLine(" 5 ===> " + _meal10);
 
             string userInput3 = Console.ReadLine();
 
             if(userInput3 == "1")
             {
-                Console.WriteLine("Ok, You want pineapple juice ");  
+                Console.WriteLine("Ok, You want " + _meal6);  
             }
     
         }   
@@ -207,9 +207,9 @@ namespace DataFunction
         public void _searchMeal()
         {
             _removeFoods();
-            var myItem = _foods.Find(item => item == "Fish Escovitch");
-            Console.WriteLine("Ok. You want Fish Escovitch.");
-            Console.WriteLine("Sorry, there is no more 'Fish Escovitch'.");
+            var myItem = _foods.Find(item => item == _meal6);
+            Console.WriteLine("Ok. You want " + _meal6);
+            Console.WriteLine("Sorry, there is no more" + _meal6);
             Console.WriteLine("Do you want something else?");
             Console.WriteLine("1===> Yes ");
             Console.WriteLine("2===> No ");

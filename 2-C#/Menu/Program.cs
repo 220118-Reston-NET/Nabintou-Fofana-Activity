@@ -4,6 +4,7 @@
 using FoodFunction;
 using DataFunction;
 using SerializeFunction;
+/*
 
     Data data = new Data();
     Meal meal = new Meal();
@@ -109,6 +110,7 @@ using SerializeFunction;
     string userInput4 = Console.ReadLine();
     if (userInput4 == "1")
     {
+
     Console.WriteLine("==================================FOODS==================================");
     
             Console.WriteLine(" Enter 1 for Jerk chicken ");
@@ -209,7 +211,7 @@ using SerializeFunction;
     }
     
     Console.ReadLine();
-    
+    */
 
     Serialize.SerialMain();
 
