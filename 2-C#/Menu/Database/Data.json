@@ -1,12 +1,9 @@
-{
-  "meal1": " The meal 1 is Jerk chicken",
-  "meal2": " The meal 2 is Jerk fish",
-  "meal3": " The meal 3 is Oxtail rice with sweet plantains",
-  "meal4": " The meal 4 is Oxtail rice with salty plantains",
-  "meal5": " The meal 5 is Fish Escovitch",
-  "meal6": " The meal 6 is Pineapple juice",
-  "meal7": " The meal 7 is Ginger juice",
-  "meal8": " The meal 8 is Lemon juice",
-  "meal9": " The meal 9 is Passion fruit juice",
-  "meal10": " The meal 10 is Mango juice"
-}
+[
+  {
+    "meal1": " The meal 1 is Jerk chicken",
+    "meal2": " The meal 2 is Jerk fish",
+    "meal3": " The meal 3 is Oxtail rice with sweet plantains",
+    "meal4": " The meal 4 is Oxtail rice with salty plantains",
+    "meal5": " The meal 5 is Fish Escovitch"
+  }
+]

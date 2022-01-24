@@ -47,7 +47,7 @@ namespace DataFunction
             get { return " The meal 5 is " + _meal5;}
             set { _meal5 = value;}
         }
-
+/*
         public string meal6
         {
             get { return " The meal 6 is " + _meal6;}
@@ -73,7 +73,7 @@ namespace DataFunction
             get { return " The meal 10 is " + _meal10;}
             set { _meal10 = value;}
         }
-
+*/
         public Data()
         {
             _meal1 = "Jerk chicken";

@@ -15,6 +15,7 @@ namespace SerializeFunction
             
             //Created a list of datas
             List<Data> listOfMeals = new List<Data>();
+
             Data data1 = new Data()
             {
                 meal1 = "Jerk chicken",
@@ -28,7 +29,7 @@ namespace SerializeFunction
 
             //Converting C# object into a JSON formatted string datatype
             //Just means converting C# object into a string
-            string jsonString = JsonSerializer.Serialize(data1,new JsonSerializerOptions {WriteIndented = true});
+            string jsonString = JsonSerializer.Serialize(listOfMeals,new JsonSerializerOptions {WriteIndented = true});
             Console.WriteLine(jsonString);
 
             //File class will create a JSON file (if there isn't one already) or overwrite
