@@ -27,29 +27,12 @@ namespace SerializeFunction
 
             listOfMeals.Add(data1);
 
-            //Converting C# object into a JSON formatted string datatype
-            //Just means converting C# object into a string
+            //converting C# object into a string
             string jsonString = JsonSerializer.Serialize(listOfMeals,new JsonSerializerOptions {WriteIndented = true});
             Console.WriteLine(jsonString);
 
             //File class will create a JSON file (if there isn't one already) or overwrite
             File.WriteAllText(_filepath, jsonString);
-
-            //Console.WriteLine("=Converting JSON to object=");
-            //File.ReadAllText() static method will read our JSON file and store it in our jsonString2
-            string jsonString2 = File.ReadAllText(_filepath);
-
-            //JsonSerializer converts the JSON object into a C# object
-            List<Data> data2 = JsonSerializer.Deserialize<List<Data>>(jsonString2);
-
-
-            Console.WriteLine(data2[0].meal1);
-            Console.WriteLine(data2[0].meal2);
-            Console.WriteLine(data2[0].meal3);
-            Console.WriteLine(data2[0].meal4);
-            Console.WriteLine(data2[0].meal5);
-            
-
 
         }
     }
