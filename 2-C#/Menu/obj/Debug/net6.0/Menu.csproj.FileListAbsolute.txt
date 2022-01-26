@@ -1,0 +1,75 @@
+C:\Users\sandi\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.exe
+C:\Users\sandi\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.deps.json
+C:\Users\sandi\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.runtimeconfig.json
+C:\Users\sandi\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.dll
+C:\Users\sandi\Desktop\github\2-C#\Menu\bin\Debug\net6.0\ref\Menu.dll
+C:\Users\sandi\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.pdb
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.AssemblyReference.cache
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfoInputs.cache
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfo.cs
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.dll
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\ref\Menu.dll
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.pdb
+C:\Users\sandi\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.genruntimeconfig.cache
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.exe
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.deps.json
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.runtimeconfig.json
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.dll
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\bin\Debug\net6.0\ref\Menu.dll
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\bin\Debug\net6.0\Menu.pdb
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.AssemblyReference.cache
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfoInputs.cache
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfo.cs
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.dll
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\ref\Menu.dll
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.pdb
+C:\Users\sandi\OneDrive\Desktop\github\2-C#\Menu\obj\Debug\net6.0\Menu.genruntimeconfig.cache
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\bin\Debug\net6.0\Menu.exe
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\bin\Debug\net6.0\Menu.deps.json
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\bin\Debug\net6.0\Menu.runtimeconfig.json
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\bin\Debug\net6.0\Menu.dll
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\bin\Debug\net6.0\ref\Menu.dll
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\bin\Debug\net6.0\Menu.pdb
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.AssemblyReference.cache
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfoInputs.cache
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfo.cs
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\Menu.dll
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\ref\Menu.dll
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\Menu.pdb
+C:\Users\sandi\Desktop\New folder\github\2-C#\Menu\obj\Debug\net6.0\Menu.genruntimeconfig.cache
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.exe
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.deps.json
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.runtimeconfig.json
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.dll
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\bin\Debug\net6.0\ref\Menu.dll
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.pdb
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.AssemblyReference.cache
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfoInputs.cache
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfo.cs
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.dll
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\ref\Menu.dll
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.pdb
+C:\Users\sandi\Desktop\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.genruntimeconfig.cache
+D:\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.exe
+D:\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.deps.json
+D:\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.runtimeconfig.json
+D:\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.dll
+D:\Github activities\github\2-C#\Menu\bin\Debug\net6.0\ref\Menu.dll
+D:\Github activities\github\2-C#\Menu\bin\Debug\net6.0\Menu.pdb
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.AssemblyReference.cache
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfoInputs.cache
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfo.cs
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.csproj.CoreCompileInputs.cache
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.dll
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\ref\Menu.dll
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.pdb
+D:\Github activities\github\2-C#\Menu\obj\Debug\net6.0\Menu.genruntimeconfig.cache
