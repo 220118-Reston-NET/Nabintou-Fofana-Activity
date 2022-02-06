@@ -1,0 +1,40 @@
+[
+  {
+    "StoreID": 1,
+    "StoreName": "fofky",
+    "StoreLocation": "",
+    "Orders": [
+      {
+        "OrderID": 1,
+        "CustomerID": 1,
+        "StoreID": 1,
+        "StoreLocation": "",
+        "TotalPrice": 0,
+        "LineItems": [
+          {
+            "ProductID": 1,
+            "ProductName": "",
+            "ProductQuantity": 0
+          }
+        ]
+      }
+    ],
+    "Products": [
+      {
+        "ProductName": "",
+        "ProductDescription": "",
+        "ProductCategory": "",
+        "ProductPrice": 0,
+        "Qualities": [
+          {
+            "QuaId": 0,
+            "Name": "Conformity",
+            "PP": 40,
+            "Durability": 80,
+            "Reliability": 40
+          }
+        ]
+      }
+    ]
+  }
+]

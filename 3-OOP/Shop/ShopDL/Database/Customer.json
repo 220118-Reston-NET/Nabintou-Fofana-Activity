@@ -1,0 +1,25 @@
+[
+  {
+    "CustomerID": 1,
+    "CustomerName": "",
+    "CustomerAddress": "",
+    "CustomerEmail": "",
+    "CustomerPhoneNumber": 1122223366,
+    "Orders": [
+      {
+        "OrderID": 1,
+        "CustomerID": 1,
+        "StoreID": 1,
+        "StoreLocation": "",
+        "TotalPrice": 0,
+        "LineItems": [
+          {
+            "ProductID": 1,
+            "ProductName": "",
+            "ProductQuantity": 0
+          }
+        ]
+      }
+    ]
+  }
+]

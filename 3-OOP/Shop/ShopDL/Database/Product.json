@@ -1,0 +1,17 @@
+[
+  {
+    "ProductName": "kikk",
+    "ProductDescription": "",
+    "ProductCategory": "",
+    "ProductPrice": 0,
+    "Qualities": [
+      {
+        "QuaId": 0,
+        "Name": "Conformity",
+        "PP": 40,
+        "Durability": 80,
+        "Reliability": 40
+      }
+    ]
+  }
+]
